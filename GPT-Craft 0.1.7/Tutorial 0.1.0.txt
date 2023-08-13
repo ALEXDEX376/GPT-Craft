@@ -1,0 +1,29 @@
+A Tutorial on how to start the game using CMD
+
+Step-1
+Open CMD
+Step-2
+Place the folder in the Downloads directory
+Step-3 
+Type "cd Downloads"
+Step-4
+Now, type "cd GPT-Craft 0.1.7"
+Final Step 
+Finally, type "game.py" 
+
+Tutorial on Game Controls
+
+W=Move Forward
+S=Move Backward
+A=Move Left
+D=Move Right
+Spacebar=Jump
+LMB=Break Blocks
+RMB=Place Blocks
+
+Tips 
+
+You can jump up to 2 blocks high! (even though your player is 2.25 blocks tall)
+
+That's It Folks! (Tutorial was not made by ChatGPT-3) (Tutorial version 0.1.0)
+

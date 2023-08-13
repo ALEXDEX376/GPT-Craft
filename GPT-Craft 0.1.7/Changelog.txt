@@ -1,0 +1,28 @@
+Version 0.1.4
+Fixed a Minor Bug
+Changed Default Grass Texture (From Texture.png to texture.jfif)
+Realesed on 02-06-2023
+     ------------x-----------
+Version 0.1.5
+Fixed a bug in which you were unable to walk backwards (Major Bug)
+Changed default grass texture (Now texture2.jfif)
+Changed sky texture
+Realesed on 15-07-2023
+     ------------x-----------
+Version 0.1.55
+Fixed bugs relating sky
+Changed sky texture
+Realeased on 17-07-2023
+      ------------x----------
+Version 0.1.6
+Bugs fixed
+realeased on 20-July-23
+      ------------x----------
+Version 0.1.7  The Release Update
+Added instructions
+Changed sky.png 
+Changed texture2.jfif (it has borders now)
+Changed texture.png (it has borders now)
+Changed block highlighted color from gray to dark_grey
+FIRST PUBLIC RELEASE!!!!!!! (released on github = ALEXDEX367)
+      ------------x----------
